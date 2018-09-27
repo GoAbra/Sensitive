@@ -96,7 +96,7 @@ This library changes the way how you work with gestures in Swift.
 
   # s.public_header_files = "Classes/**/*.h"
 
-  s.swift_version = "4.0"
+  s.swift_version = "4.2"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

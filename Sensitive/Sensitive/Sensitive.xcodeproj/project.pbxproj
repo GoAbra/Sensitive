@@ -22,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		181E4AD0215D7B9D00B15DD6 /* Sensitive.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Sensitive.podspec; path = ../../Sensitive.podspec; sourceTree = "<group>"; };
 		691E99BE20914B130051B750 /* Sensitive.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Sensitive.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		691E99C120914B130051B750 /* Sensitive.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sensitive.h; sourceTree = "<group>"; };
 		691E99C220914B130051B750 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -52,6 +53,7 @@
 		691E99B420914B130051B750 = {
 			isa = PBXGroup;
 			children = (
+				181E4AD0215D7B9D00B15DD6 /* Sensitive.podspec */,
 				691E99C020914B130051B750 /* Sensitive */,
 				691E99BF20914B130051B750 /* Products */,
 			);
@@ -433,7 +435,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.visuality.Sensitive;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -458,7 +460,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.visuality.Sensitive;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
